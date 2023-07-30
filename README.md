@@ -1,13 +1,14 @@
 <img width="800" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/website.png">
 <h1 align="center">Hi 👋, I'm Faisal Ali</h1>
-<h3 align="center">A passionate Software Engineer from Pakisatan</h3>
+<h3 align="center">A passionate Software Engineer from Pakisatan </h3>
+<h4 align="center">Java Developer || Python Developer || Web developer </h4>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </p>
 
 <p align="left"> <a href="https://twitter.com/faisalzama0786" target="blank"><img src="https://img.shields.io/twitter/follow/faisalzama0786?logo=twitter&style=for-the-badge" alt="faisalzama0786" /></a> </p>
 
-- 🌱 I’m currently learning **Swing bootstrap**
+- 🌱 I’m currently learning **Swing, bootstrap**
 
-- 💬 Ask me about **Flutter Android**
+- 💬 Ask me about **Flutter,Android,Java,Python**
 
 - 📫 How to reach me **faisalzama043@gmail.com**
 
