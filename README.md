@@ -1,4 +1,4 @@
-<img width="800" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/website.png">
+<img height="600" width="1100" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/website.png">
 <h1 align="center">Hi 👋, I'm Faisal Ali</h1>
 <h3 align="center">A passionate Software Engineer from Pakisatan </h3>
 <h4 align="center">Java Developer || Python Developer || Web developer </h4>
