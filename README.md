@@ -47,8 +47,9 @@
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   </a>
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="sonarqube" width="40" height="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/SonarQube_logo.png" alt="SonarQube" width="40" height="40"/>
+</a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisal-korejo&show_icons=true&locale=en&layout=compact" alt="faisal-korejo" /></p>
 
