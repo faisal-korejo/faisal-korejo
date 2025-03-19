@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/faisalzama0786" target="blank"><img src="https://img.shields.io/twitter/follow/faisalzama0786?logo=twitter&style=for-the-badge" alt="faisalzama0786" /></a> </p>
 
-- 🌱 I’m currently learning **Swing, bootstrap**
+- 🌱 I’m currently learning **DevSecOps**
 
-- 💬 Ask me about **Flutter,Android,Java,Python**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **faisalzama043@gmail.com**
 
