@@ -47,7 +47,7 @@
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   </a>
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/SonarQube_logo.png" alt="SonarQube" width="40" height="40"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/42/SonarQube_logo.png](https://www.aviator.co/blog/wp-content/uploads/2023/01/sonarqube-1024x567.png)" alt="SonarQube" width="40" height="40"/>
 </a>
 
 
